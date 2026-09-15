@@ -31,6 +31,11 @@ It uses Google Gemini to create customized day-by-day travel plans according to 
 ```text
 Tripwise_AI/
 │
+├── assets/
+│   ├── home.png
+│   ├── preferences.png
+│   └── itinerary.png
+│
 ├── utils/
 │   └── trip_planner.py
 │
@@ -39,3 +44,14 @@ Tripwise_AI/
 ├── app.py
 ├── README.md
 └── requirements.txt
+
+## 📸 Screenshots
+
+### Trip Planning
+![Trip Planning](assets/home.png)
+
+### Travel Style & Interests
+![Travel Style & Interests](assets/preferences.png)
+
+### Generated Itinerary
+![Generated Itinerary](assets/itinerary.png)
