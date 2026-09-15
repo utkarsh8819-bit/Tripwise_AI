@@ -4,6 +4,10 @@ TripWise AI is an AI-powered travel planning application that generates personal
 
 It uses Google Gemini to create customized day-by-day travel plans according to budget, destination, duration, travel style, interests, food preferences, accommodation, mobility needs, and more.
 
+## 🌐 Live Demo
+
+👉 [Try TripWise AI](https://tripwiseai-395drzz9nn6ypzemqoz93i.streamlit.app/)
+
 ## 🚀 Features
 
 - Personalized AI-generated travel itineraries
@@ -44,14 +48,3 @@ Tripwise_AI/
 ├── app.py
 ├── README.md
 └── requirements.txt
-
-## 📸 Screenshots
-
-### Trip Planning
-![Trip Planning](assets/home.png)
-
-### Travel Style & Interests
-![Travel Style & Interests](assets/preferences.png)
-
-### Generated Itinerary
-![Generated Itinerary](assets/itinerary.png)
